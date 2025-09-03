@@ -4,5 +4,9 @@
 <h1 
 >I'm Diogenes Fermin</h1>
 </div>
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=DiogenesFerminS&show_icons=true&theme=radical)
+<div>
+  <span>Technologies</span>
+  <ol>
+      <li>HTML</li>
+  </ol>
+</div>
