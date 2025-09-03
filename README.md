@@ -1,1 +1,3 @@
-<h1>I'm Diogenes Fermin </h1>
+<h1 styles={{
+  color: "blue",
+}}>I'm Diogenes Fermin </h1>
