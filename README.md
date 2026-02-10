@@ -4,7 +4,7 @@ I am a self-taught university student majoring in Computer Science, with knowled
 
 ## Tech Stack
 
-**Frontend:** React, TailwindCSS, JavaScript, CSS, HTML, NextJs, TypeScript
+**Frontend:** React, TailwindCSS, JavaScript, CSS, HTML, NextJs, TypeScript, Astro
 
 **Backend:** Node, Express, Nestjs, TypeScript, ORMs, Docker
 
